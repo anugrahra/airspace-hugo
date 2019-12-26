@@ -54,6 +54,7 @@ fields:
   - type: file
     name: logo
     label: logo
+    default: "/uploads/20190815_234057.jpg"
   - type: text
     name: home
     label: home
