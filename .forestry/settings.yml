@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: DIREKTORI
+  create: all
+  match: "**/*"
 - type: heading
   label: Anjing lah
 upload_dir: uploads
